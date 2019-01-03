@@ -1,1 +1,5 @@
 /* write your override styles here */
+
+top-layer {
+  z-index: 99;
+}
