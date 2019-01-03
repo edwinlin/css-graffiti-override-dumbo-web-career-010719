@@ -1,7 +1,5 @@
 /* write your override styles here */
 
 #top-layer {
-  position: absolute;
-  z-index: 99;
   display:none;
 }
